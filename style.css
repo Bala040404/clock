@@ -45,7 +45,7 @@ h1 {
 
 #hrtime {
     font-size: 40px;
-    background-color: antiquewhite;
+    background-color: rgb(150, 138, 123);
     width: 100%;
     flex-grow: 2;
 }
